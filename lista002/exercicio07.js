@@ -31,32 +31,3 @@ function numerosInfo() {
 }
 
 numerosInfo()
-
-
-
-// Dado uma pilha que armazene números, escreva uma função para ordenar os
-// valores da pilha em ordem crescente.
-
-// function numeros() {
-    
-//     let numeros=[2,33,4]
-//     let numerosOrdenados=[]
-//     let tamanho = numeros.length;
-  
-   
-//     for (let i = 0; i < tamanho; i++) {
-//       let ultimo = numeros.pop();
-//         for (let j = 0; j < tamanho-1; j++) {
-//             let proximo = numeros.pop()
-
-//             if(ultimo < proximo){
-//                 proximo = ultimo
-//             }
-//         }
-//     }
-
-// }
-
-// numerosInfo()
-
-

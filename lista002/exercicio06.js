@@ -20,4 +20,4 @@ function ordenarPilha() {
 }
 
 
-ordenarPilha();
+console.log(ordenarPilha());

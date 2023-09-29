@@ -25,9 +25,10 @@ function inverterPalavras() {
         
         }
 
-     palavras[i] = novaPalavra;
+     palavras[i] = novaPalavra; //recebe todas as palavras so que juntas
+    
     }
-
+    console.log(palavras)
     // Juntando as palavras novamente
     let novaFrase = palavras.join(' ');
    
